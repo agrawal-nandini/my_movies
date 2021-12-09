@@ -1,6 +1,11 @@
 # my_movies
 
-A new Flutter project.
+A simple Flutter project that shows the list of movies you've watched. You can easily add and delete movies from the watchlist. 
+
+# App Demo 
+
+https://user-images.githubusercontent.com/95284734/145388963-8ef24499-7d91-4a2c-8b66-48c148c22334.mp4
+
 
 ## Getting Started
 
